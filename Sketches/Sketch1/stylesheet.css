@@ -4,7 +4,8 @@
 }
 body{
     width: 100%;
-    height: 100%;
+	height: 100%;
+	background-color: black;
 }
 .hrCont{
 	color: black;
@@ -37,7 +38,7 @@ body{
 }
 
 .navBar{
-	margin-top: 45%;
+	margin-top: 7%;
 	width: 50%;
 	float: unset;
 	font-family: Merienda;
@@ -113,14 +114,15 @@ body{
 .content{
     margin-left: 0.5%;
     width: 50%;
-    height: 100em;
-    background-color: rgb(117, 157, 192);
+    height: auto;
+    background-color: rgb(117, 155, 189);
     text-align: justify;
 	float: right;
 	font-family: Special Elite;
 	padding: 5% 4%;
 	font-size: 20px;
 }
-.tittle{
-	text-align: center;
+.prof{
+	height: 100%;
+	padding-top: 5%;
 }
