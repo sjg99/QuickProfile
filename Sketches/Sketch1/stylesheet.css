@@ -30,7 +30,9 @@ body{
 	float: left;
 	position: fixed;
 	color: #fff;
-	background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
+	/*background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
+	*/
+	background: linear-gradient(-45deg, rgb(100, 103, 104), rgb(35, 166, 213), rgb(21, 95, 58), rgb(82, 158, 140));
 	background-size: 400% 400%;
 	-webkit-animation: Gradient 15s ease infinite;
 	-moz-animation: Gradient 15s ease infinite;
@@ -115,7 +117,7 @@ body{
     margin-left: 0.5%;
     width: 50%;
     height: auto;
-    background-color: rgb(117, 155, 189);
+    background-color: antiquewhite;
     text-align: justify;
 	float: right;
 	font-family: Special Elite;
