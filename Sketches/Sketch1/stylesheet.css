@@ -47,6 +47,28 @@ body{
 	position: fixed;
 	text-align: center;
 }
+
+@media (max-width: 768px) {
+	body{
+		background-color: black;
+		width: 100%;
+		height: 100%;
+		color: black;
+	}
+	div{
+		background-color: black;
+		width: 100%;
+		height: 100%;
+		color: black;
+	}
+	nav{
+		background-color: black;
+		width: 100%;
+		height: 100%;
+		color: black;
+	}
+}
+
 .navBttn{
 	width: 10%;
 	margin: 3%;
@@ -128,3 +150,9 @@ body{
 	height: 100%;
 	padding-top: 5%;
 }
+.urls{
+	width: 100%;
+	align-content: center;
+	padding-left: 30%;
+}
+
